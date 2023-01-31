@@ -1,0 +1,15 @@
+.container-text {
+  position: absolute;
+  top: -80px;
+  background: #262b49;
+  border-radius: 5px;
+  padding: 16px 24px;
+  box-shadow: 2px 2px 2px 2px rgb(17, 17, 17);
+}
+
+.text {
+  color: #f1f1f1;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 500;
+}
